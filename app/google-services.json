@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "519995823765",
+    "firebase_url": "https://cm-2024-8a817-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cm-2024-8a817",
+    "storage_bucket": "cm-2024-8a817.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519995823765:android:fa52dfa41593bc13e86d9c",
+        "android_client_info": {
+          "package_name": "com.example.hogwartshoppers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "<key>"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
